@@ -162,9 +162,13 @@ cython_debug/
 # virtual environment 
 Chicken/
 
-# image folder
-artifacts_python_scripts/*
-artifacts_ipynb/*
+# artifacts folder
+artifacts_python_scripts/data_ingestion/*
+artifacts_python_scripts/prepare_base_model/*
+artifacts_ipynb/data_ingestion/*
+artifacts_ipynb/prepare_base_model/*
+artifacts_dvc/data_ingestion/*
+artifacts_dvc/prepare_base_model/*
 
 research/
 templates/
