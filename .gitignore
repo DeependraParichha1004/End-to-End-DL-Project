@@ -165,10 +165,13 @@ Chicken/
 # artifacts folder
 artifacts_python_scripts/data_ingestion/*
 artifacts_python_scripts/prepare_base_model/*
+artifacts_python_scripts/prepare_callbacks/*
 artifacts_ipynb/data_ingestion/*
 artifacts_ipynb/prepare_base_model/*
+artifacts_ipynb/prepare_callbacks/*
 artifacts_dvc/data_ingestion/*
 artifacts_dvc/prepare_base_model/*
+artifacts_dvc/prepare_callbacks/*
 
 research/
 templates/
