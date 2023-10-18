@@ -1,0 +1,13 @@
+site_name: Made With ML
+site_url: https://github.com/DeependraParichha1004/
+repo_url: https://github.com/DeependraParichha1004/End-to-End-DL-Project/blob/main/src/cnnClassifier/utils/common.py
+nav:
+  - Home: index.md
+  - madewithml:
+    - data: common.md
+    
+theme: readthedocs
+plugins:
+  - mkdocstrings
+watch:
+  - .  # reload docs for any file changes
