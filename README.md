@@ -91,7 +91,7 @@ open up you local host and port
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 138213122923.dkr.ecr.ap-south-1.amazonaws.com/cnn_cls
+    - Save the URI: your ecr uri
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
